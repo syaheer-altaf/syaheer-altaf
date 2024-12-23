@@ -16,7 +16,7 @@ I am looking to collaborate on the following:
 
 ### rag_4_cpr
 
-RAG for Competitive Programming [rag_4_cpr]([link-to-repo](https://github.com/syaheer-altaf/rag_4_cpr.git)) s a Retrieval-Augmented Generation (RAG) system designed to assist with solving competitive programming problems efficiently. 
+RAG for Competitive Programming [(rag_4_cpr)](https://github.com/syaheer-altaf/rag_4_cpr.git) is a Retrieval-Augmented Generation (RAG) system designed to assist with solving competitive programming problems efficiently. 
 The project aims to combine retrieval-based techniques with advanced LLM reasoning to deliver optimal solutions.
 
 ## Hobbies
