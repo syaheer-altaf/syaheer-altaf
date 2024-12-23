@@ -22,4 +22,4 @@ The project aims to combine retrieval-based techniques with advanced LLM reasoni
 ## Hobbies
 
 In my free time, I enjoy exploring the world of retrocomputing, relishing the timeless charm of vintage computing systems. 
-I particularly enjoy coding in BASIC despite its limitations 🤭.
+I particularly enjoy coding in BASIC despite its limitations.
