@@ -1,6 +1,9 @@
 # Hello, I'm Mohamed Syaheer Altaf! 👋
 
-I am a graduate student with a specialization in computer engineering. My passion lies at the intersection of computer science and applied mathematics. This GitHub account serves as a hub for my personal projects and small ideas.
+I am a graduate student with a specialization in computer engineering. 
+My passion lies at the intersection of computer science and applied mathematics. 
+Though, lately I have been dabbling with cybersecurity, let's see where that takes me.
+This GitHub account serves as a hub for my personal projects and small ideas.
 
 ## About Me
 
