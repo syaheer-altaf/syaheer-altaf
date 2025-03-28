@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 100 100">
+  <!-- A circle representing the ball -->
+  <circle cx="50" cy="10" r="5" fill="#E95420">
+    <!-- Animate the vertical position (cy) with keyframes -->
+    <animate
+      attributeName="cy"
+      dur="2s"
+      repeatCount="indefinite"
+      values="10; 90; 70; 90; 80; 90; 85; 90; 88; 90; 90"
+      keyTimes="0; 0.2; 0.35; 0.5; 0.62; 0.73; 0.82; 0.89; 0.95; 0.98; 1"
+      calcMode="spline"
+      keySplines="
+        0.42 0 1 1;
+        0.42 0 1 1;
+        0.42 0 1 1;
+        0.42 0 1 1;
+        0.42 0 1 1;
+        0.42 0 1 1;
+        0.42 0 1 1;
+        0.42 0 1 1;
+        0.42 0 1 1;
+        0.42 0 1 1
+      "
+    />
+  </circle>
+</svg>
