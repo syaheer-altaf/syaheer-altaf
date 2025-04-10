@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500" width="100%" height="100%">
+  <g id="background">
+    <rect x="0.588" y="317.863" width="499.581" height="183.901" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <rect x="278.747" y="214.79" width="203.291" height="126.322" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <rect x="278.831" y="341.715" width="202.703" height="89.894" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <rect x="284.418" y="223.638" width="191.036" height="108.108" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <rect x="352.259" y="408.4" width="56.153" height="14.73" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="380.943" cy="219.441" rx="2.182" ry="1.847"/>
+    <rect x="287.395" y="355.131" width="185.076" height="46.269" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11px; white-space: pre;" x="290.383" y="251.867">#include &lt;stdio.h&gt;<tspan x="290.38299560546875" dy="1em">​</tspan><tspan x="290.38299560546875" dy="1em">​</tspan>int main(void) {<tspan x="290.38299560546875" dy="1em">​</tspan><tspan x="290.38299560546875" dy="1em">​</tspan>   printf("Hello World\n");<tspan x="290.38299560546875" dy="1em">​</tspan>   return 0;<tspan x="290.38299560546875" dy="1em">​</tspan>}<tspan x="290.38299560546875" dy="1em">​</tspan><tspan x="290.38299560546875" dy="1em">​</tspan></text>
+  </g>
+  <g id="coffee_mug" transform="matrix(1.13, 0, 0, 1.07067, 3.07373, -14.6554)" style="transform-origin: 239.379px 401.204px;">
+    <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="239.993" cy="377.741" rx="19.876" ry="5.533"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 259.706 378.192 L 258.886 424.502"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 219.708 377.537 L 218.888 423.847"/>
+    <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="238.764" cy="424.667" rx="19.876" ry="5.533"/>
+    <g id="handle" transform="translate(0, 10)">
+      <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 219.486 376.277 C 200.807 377.27 200.146 396.115 219.11 395.1"/>
+      <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="213.651" cy="386.536" rx="3.576" ry="4.612"/>
+    </g>
+  </g>
+  <style>
+    .img1, .img2 {
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      animation-timing-function: step-start;
+    }
+
+    .img1 {
+      animation-name: fadeOut;
+    }
+
+    .img2 {
+      animation-name: fadeIn;
+    }
+
+    @keyframes fadeOut {
+      0%, 49.999% { opacity: 1; }
+      50%, 100%   { opacity: 0; }
+    }
+
+    @keyframes fadeIn {
+      0%, 49.999% { opacity: 0; }
+      50%, 100%   { opacity: 1; }
+    }
+  </style>
+
+  <image class="img1" href="cat_sleep.svg" x="-50" y="200" width="300" height="300" />
+  <image class="img2" href="cat_awake.svg" x="-50" y="200" width="300" height="300" />
+</svg>
