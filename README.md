@@ -1,1 +1,1 @@
-<img src="./svgs/demo1.svg" alt="SVG" style="width:100%; height:100%;" />
+<img src="./svgs/pulp.svg" alt="SVG" style="width:100%; height:100%;" />
